@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-13T19:44:57Z" name="Default suite" finished-at="2024-08-13T19:45:09Z" duration-ms="12154">
+    <groups>
+    </groups>
+    <test started-at="2024-08-13T19:44:57Z" name="Default test" finished-at="2024-08-13T19:45:09Z" duration-ms="12154">
+      <class name="com.test.DashboardTescase">
+        <test-method is-config="true" signature="BrowerOpen()[pri:0, instance:com.test.DashboardTescase@530712d]" started-at="2024-08-13T19:44:57Z" name="BrowerOpen" finished-at="2024-08-13T19:45:09Z" duration-ms="12000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowerOpen -->
+        <test-method signature="ValidBashboard()[pri:0, instance:com.test.DashboardTescase@530712d]" started-at="2024-08-13T19:45:09Z" name="ValidBashboard" finished-at="2024-08-13T19:45:09Z" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidBashboard -->
+      </class> <!-- com.test.DashboardTescase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
